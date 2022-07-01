@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    //10119088 Laurentius Bryan Hermanto IF3
+
+    <item android:title="Profil"
+        android:icon="@drawable/ic_baseline_person_outline_24"
+        android:id="@+id/Profil"/>
+    <item android:title="Food Nearby"
+        android:icon="@drawable/ic_baseline_food_bank_24"
+        android:id="@+id/Food"/>
+    <item android:title="See Location"
+        android:icon="@drawable/ic_baseline_my_location_24"
+        android:id="@+id/Maps"/>
+    <item android:title="Info"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:id="@+id/Info"/>
+</menu>
